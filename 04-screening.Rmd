@@ -1,4 +1,3 @@
-
 # Screening EOR 
 
 ## Teori Dasar Statistik, Distribusi Probabilitas, dan Metode Numerik 
